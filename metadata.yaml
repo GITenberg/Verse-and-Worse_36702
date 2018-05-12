@@ -1,0 +1,44 @@
+_repo: Verse-and-Worse_36702
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Graham, Harry
+    aliases:
+    - Col. D. Streamer
+    - Streamer, Col. D.
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '37231'
+    url: http://www.gutenberg.org/2009/agents/37231
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Graham_%28poet%29
+description: ''
+gutenberg_issued: '2011-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry, English'
+- !lcc 'PR'
+tableOfContents: 'Author''s preface -- Foreword -- The baby''s Baedeker: Abroad. United
+  States of America. Great Britain. Scotland. Ireland. Wales. China. France. Germany.
+  Holland. Iceland. Italy. Japan. Portugal. Russia. Spain. Switzerland. Turkey. Dreamland.
+  Stageland. Loverland. Homeland -- Childish complaints: Prelude. Appendicitis. Whooping-cough.
+  Measles. Adenoids. Croup -- Ruthless rhymes: Mother-wit. Uncle Joe. Aunt Eliza.
+  Absent-mindedness. John. Baby. The cat -- Perverted proverbs: ''Virtue is its own
+  reward.'' ''Enough is as good as a feast.'' ''Don''t buy a pig in a poke.'' ''Learn
+  to take things easily.'' ''A rolling stone gathers no moss.'' ''It is never too
+  late to mend.'' ''A bad workman complains of his tools.'' ''Don''t look a gift-horse
+  in the mouth.'' Potpourri -- Other verses: Bill. The legend of the author. The motriot.
+  The ballad of the artist. The ballad of ping-pong. The pessimist. The place where
+  the old cleek broke. The homes of London. The happiest land. A London involuntary.
+  Bluebeard. The woman with the dead soles. Rosemary (a ballad of the boudoir). Portknockie''s
+  porter. The ballad of the little jinglander. Aftword. Envoi.'
+title: Verse and Worse
+url: http://www.gutenberg.org/ebooks/36702
